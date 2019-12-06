@@ -6,10 +6,11 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableScheduling
-public class TestConfigClient {
+public class TestCOnfigClient2 {
 
     public static void main(String[] args) {
-        SpringApplication.run(TestConfigClient.class,args);
+        SpringApplication.run(TestCOnfigClient2.class);
     }
+
 
 }
